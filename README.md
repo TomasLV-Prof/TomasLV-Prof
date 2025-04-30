@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Tomás</h1>
 <!--<h3 align="center">Un profesor más de Formación Profesional</h3>-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Un+profesor+m%C3%A1s+de+Formaci%C3%B3n+Profesional)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Un+profesor+m%C3%A1s+de+Formaci%C3%B3n+Profesional" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlopezv&label=Profile%20views&color=0e75b6&style=flat" alt="tlopezv" /> </p>
 
